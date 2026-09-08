@@ -1,5 +1,11 @@
 # Zero to Hired — Daily Log
 
+## Day 8 — Sep 8, 2026
+- Low-effort (on a trip): quick revision of list, dict, tuple, set
+
+## Day 7 — Sep 7, 2026
+- Low-effort (on a trip):functions —overview only, not deep yet
+
 ## Day 6 — Sep 2, 2026
 - Learned: conditionals (if/else), for loops, while loops
 - Mistakes caught: used `or` where `and` was needed; forgot to wrap output in `print()`; wrote a comparison backwards (`<` instead of `>`)
