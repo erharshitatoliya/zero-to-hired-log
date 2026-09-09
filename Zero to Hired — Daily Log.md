@@ -1,5 +1,9 @@
 # Zero to Hired — Daily Log
 
+## Day 9 — Sep 9, 2026
+- Learned: functions (default parameters), recursion
+- Built: Snake Water Gun game
+
 ## Day 8 — Sep 8, 2026
 - Low-effort (on a trip): quick revision of list, dict, tuple, set
 
