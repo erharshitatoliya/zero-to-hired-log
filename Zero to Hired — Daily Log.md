@@ -1,5 +1,8 @@
 # Zero to Hired — Daily Log
 
+## Day 10 — Sep 10, 2026
+- Learned: file I/O (read/write/append modes), OOP — classes/objects, inheritance, properties, class methods, setters, operator overloading
+
 ## Day 9 — Sep 9, 2026
 - Learned: functions (default parameters), recursion
 - Built: Snake Water Gun game
