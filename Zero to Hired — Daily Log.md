@@ -1,5 +1,9 @@
 # Zero to Hired — Daily Log
 
+## Day 11 — Sep 11, 2026
+- Learned: constructors, inheritance (and its types), properties and setters
+- Built: Number Guessing Game
+
 ## Day 10 — Sep 10, 2026
 - Learned: file I/O (read/write/append modes), OOP — classes/objects, inheritance, properties, class methods, setters, operator overloading
 
