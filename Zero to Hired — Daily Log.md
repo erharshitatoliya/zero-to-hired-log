@@ -1,5 +1,8 @@
 # Zero to Hired — Daily Log
 
+## Day 12 — Sep 12,2026
+- Learned: try/except, map/filter/reduce, enumerate, list comprehension, lambda, virtual environments
+
 ## Day 11 — Sep 11, 2026
 - Learned: constructors, inheritance (and its types), properties and setters
 - Built: Number Guessing Game
